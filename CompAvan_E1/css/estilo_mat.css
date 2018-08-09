@@ -1,0 +1,40 @@
+
+body { background-image: url(/CompAvan/CompAvan_E1/img/comufo.jpg); }
+.titu {
+	color:white;
+	text-align: center; 
+	font-size: 2em;
+}
+.parr { 
+	color:white;
+  text-align: center;
+ background-color: #070350;
+  margin: 25px auto;
+  width: 600px;
+  border-radius: 10px;
+  text-align: justify;
+}
+.nis { color:white;
+	background-color: #070350;
+	text-align: left;
+	width: 500px;
+	border-radius: 10px;
+
+ }
+ .le {
+ 	color:white;
+	background-color: #070350;
+	width: 500px;
+	margin:0px 500px;
+	border-radius: 10px;
+ }
+.al {color:white;
+ background-color:#070350;
+    border-radius: 10px;
+  text-align: justify;
+}
+.I {
+	color: white;
+	text-align: center;
+}
+

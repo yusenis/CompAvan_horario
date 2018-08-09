@@ -1,0 +1,47 @@
+
+/*estilo de estructura del horario*/
+body  {background-image: url("TELE.jpg");
+       font-family:Arial;}
+table{ background:white;
+      border: solid 3px black;
+      margin: 20px 20px 20px 20px;
+      font-family:arial;
+      }
+
+      h1 { text-align: center; 
+        color:white;
+          }
+
+.yu {border: 1px solid;
+	   color: black;
+	   background-color:;
+    font-size: 12px;
+    text-align: center;
+    margin: 20px auto;
+    width:600px; }
+
+ .se { background-color:#000099 ;
+      color:white;
+    }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color:#070350;
+}
+a:active {
+  color:black;
+}
+
+.tu { float: right;
+font-size: 15px;
+text-decoration: none;
+background-color: white;
+padding: 10px 10px;
+display: inline-flex;
+box-shadow: 0px 10px 0px #070350;
+border-radius: 10px;
+
+ }
