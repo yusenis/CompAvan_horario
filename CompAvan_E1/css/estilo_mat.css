@@ -1,5 +1,5 @@
 
-body { background-image: url(/CompAvan/CompAvan_E1/img/comufo.jpg); }
+body { background-image: url("../img/comufo.jpg"); }
 .titu {
 	color:white;
 	text-align: center; 
